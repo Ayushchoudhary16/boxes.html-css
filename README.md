@@ -10,11 +10,9 @@
     />
   </head>
   <body>
-    <div class="main">
       <div class="img">
         <img src="./image/happy.jpeg" class="happy" />
         <p class="text" align="center">"IF YOU WANT TO BE HAPPY,BE"</p>
       </div>
-    </div>
   </body>
 </html>
